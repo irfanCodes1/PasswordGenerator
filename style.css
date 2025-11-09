@@ -78,5 +78,6 @@ p {
 
 .pass p:hover {
   border-color: lightgreen;
-  box-shadow: 0 0 10px rgba(56, 189, 248, 0.4);
+  box-shadow: 0 0 10px rgba(9, 154, 67, 0.4);
 }
+
